@@ -1,6 +1,7 @@
 # QAPractice
 
-Projeto para aprender Cypress aplicando boas práticas como Hooks, Page Object Model (POM) e AAA (Arrange, Action, Assert), além de integração com CI do GitHub Actions.
+- Projeto básico para aprender Cypress aplicando boas práticas como Hooks, Page Object Model (POM) e AAA (Arrange, Action, Assert), além de integração com CI do GitHub Actions.
+- Utilizando o site: https://www.saucedemo.com/ para realização dos testes (Login e adicionar remover itens do carrinho)
 
 ## Objetivos
 
@@ -12,7 +13,7 @@ Projeto para aprender Cypress aplicando boas práticas como Hooks, Page Object M
 
 - `e2e`: Testes automatizados
 - `pages/index.js`: Ações/Comportamento da Página (Abstração)
-- `pages/elements.js`: Elementos/Seletores da Página
+- `pages/elements.js`: Elementos/Seletores da Página (Abstração)
 - `screenshots`: Screenshots dos testes
 - `.github/workflows/`: Configuração do CI
 
