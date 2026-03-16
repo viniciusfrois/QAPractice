@@ -1,6 +1,6 @@
 # CypressCI
 
-- Projeto para aprender teste automatizados com Cypress aplicando boas práticas como Hooks, Page Object Model (POM) e AAA (Arrange, Action, Assert), além de integração com CI do GitHub Actions.
+- Projeto automatizado com Cypress aplicando boas práticas como Hooks, Page Object Model (POM) e AAA (Arrange, Action, Assert), além de integração com CI do GitHub Actions.
 - Utilizando o site: https://www.saucedemo.com/ para realização dos testes (Login e adicionar remover itens do carrinho)
 
 ## Objetivos
